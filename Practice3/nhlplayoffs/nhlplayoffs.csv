@@ -1,0 +1,1010 @@
+rank,team,year,games,wins,losses,ties,shootout_wins,shootout_losses,win_loss_percentage,goals_scored,goals_against,goal_differential
+1,Colorado Avalanche,2022,20,16,4,0,5,1,0.8,85,55,30
+2,Tampa Bay Lightning,2022,23,14,9,0,1,2,0.609,67,61,6
+3,New York Rangers,2022,20,10,10,0,1,2,0.5,62,58,4
+4,Edmonton Oilers,2022,16,8,8,0,1,2,0.5,65,59,6
+5,Carolina Hurricanes,2022,14,7,7,0,1,0,0.5,37,40,-3
+6,St. Louis Blues,2022,12,6,6,0,1,1,0.5,40,38,2
+7,Calgary Flames,2022,12,5,7,0,1,1,0.417,35,39,-4
+8,Florida Panthers,2022,10,4,6,0,2,0,0.4,23,32,-9
+9,Boston Bruins,2022,7,3,4,0,0,0,0.429,20,24,-4
+10,Los Angeles Kings,2022,7,3,4,0,1,0,0.429,17,27,-10
+11,Toronto Maple Leafs,2022,7,3,4,0,0,1,0.429,24,23,1
+12,Dallas Stars,2022,7,3,4,0,0,1,0.429,14,15,-1
+13,Pittsburgh Penguins,2022,7,3,4,0,1,1,0.429,29,28,1
+14,Minnesota Wild,2022,6,2,4,0,0,0,0.333,16,22,-6
+15,Washington Capitals,2022,6,2,4,0,0,2,0.333,19,20,-1
+16,Nashville Predators,2022,4,0,4,0,0,1,0,9,21,-12
+1,Tampa Bay Lightning,2021,23,16,7,0,0,4,0.696,75,45,30
+2,Montreal Canadiens,2021,22,13,9,0,6,1,0.591,51,54,-3
+3,New York Islanders,2021,19,11,8,0,4,1,0.579,54,53,1
+4,Vegas Golden Knights,2021,19,10,9,0,2,4,0.526,53,46,7
+5,Colorado Avalanche,2021,10,6,4,0,1,1,0.6,38,27,11
+6,Boston Bruins,2021,11,6,5,0,3,2,0.545,33,32,1
+7,Carolina Hurricanes,2021,11,5,6,0,3,2,0.455,31,30,1
+8,Winnipeg Jets,2021,8,4,4,0,3,1,0.5,20,22,-2
+9,Minnesota Wild,2021,7,3,4,0,1,0,0.429,13,20,-7
+10,Toronto Maple Leafs,2021,7,3,4,0,0,2,0.429,18,14,4
+11,Florida Panthers,2021,6,2,4,0,1,0,0.333,17,24,-7
+12,Pittsburgh Penguins,2021,6,2,4,0,0,2,0.333,16,21,-5
+13,Nashville Predators,2021,6,2,4,0,2,2,0.333,16,22,-6
+14,Washington Capitals,2021,5,1,4,0,1,2,0.2,10,16,-6
+15,St. Louis Blues,2021,4,0,4,0,0,0,0,7,20,-13
+16,Edmonton Oilers,2021,4,0,4,0,0,3,0,8,14,-6
+1,Tampa Bay Lightning,2020,25,18,7,0,7,2,0.72,78,57,21
+2,Dallas Stars,2020,27,15,12,0,6,1,0.556,78,82,-4
+3,New York Islanders,2020,22,13,9,0,2,4,0.591,66,51,15
+4,Vegas Golden Knights,2020,20,12,8,0,2,2,0.6,57,44,13
+5,Philadelphia Flyers,2020,16,10,6,0,3,0,0.625,38,40,-2
+6,Vancouver Canucks,2020,17,10,7,0,2,1,0.588,48,45,3
+7,Colorado Avalanche,2020,15,9,6,0,0,2,0.6,60,41,19
+8,Montreal Canadiens,2020,10,5,5,0,1,0,0.5,23,19,4
+9,Calgary Flames,2020,10,5,5,0,0,1,0.5,33,27,6
+10,Boston Bruins,2020,13,5,8,0,1,2,0.385,29,39,-10
+11,Carolina Hurricanes,2020,8,4,4,0,0,1,0.5,22,19,3
+12,Arizona Coyotes,2020,9,4,5,0,1,0,0.444,22,33,-11
+13,Chicago Blackhawks,2020,9,4,5,0,0,1,0.444,27,30,-3
+14,Columbus Blue Jackets,2020,10,4,6,0,1,3,0.4,24,24,0
+15,Toronto Maple Leafs,2020,5,2,3,0,1,1,0.4,10,12,-2
+16,Washington Capitals,2020,8,2,6,0,0,2,0.25,13,24,-11
+17,St. Louis Blues,2020,9,2,7,0,1,2,0.222,22,32,-10
+18,Nashville Predators,2020,4,1,3,0,0,1,0.25,11,14,-3
+19,Winnipeg Jets,2020,4,1,3,0,0,0,0.25,6,16,-10
+20,Minnesota Wild,2020,4,1,3,0,0,1,0.25,10,12,-2
+21,Florida Panthers,2020,4,1,3,0,0,0,0.25,7,13,-6
+22,Edmonton Oilers,2020,4,1,3,0,0,0,0.25,15,16,-1
+23,Pittsburgh Penguins,2020,4,1,3,0,0,1,0.25,8,10,-2
+24,New York Rangers,2020,3,0,3,0,0,0,0,4,11,-7
+1,St. Louis Blues,2019,26,16,10,0,2,2,0.615,75,70,5
+2,Boston Bruins,2019,24,15,9,0,1,2,0.625,79,51,28
+3,San Jose Sharks,2019,20,10,10,0,3,1,0.5,58,66,-8
+4,Carolina Hurricanes,2019,15,8,7,0,2,1,0.533,39,42,-3
+5,Colorado Avalanche,2019,12,7,5,0,3,0,0.583,35,31,4
+6,Dallas Stars,2019,13,7,6,0,1,2,0.538,35,30,5
+7,Columbus Blue Jackets,2019,10,6,4,0,1,1,0.6,30,25,5
+8,New York Islanders,2019,8,4,4,0,1,1,0.5,19,19,0
+9,Vegas Golden Knights,2019,7,3,4,0,0,2,0.429,25,23,2
+10,Toronto Maple Leafs,2019,7,3,4,0,0,0,0.429,17,23,-6
+11,Washington Capitals,2019,7,3,4,0,1,1,0.429,20,21,-1
+12,Nashville Predators,2019,6,2,4,0,1,1,0.333,12,18,-6
+13,Winnipeg Jets,2019,6,2,4,0,1,0,0.333,16,16,0
+14,Calgary Flames,2019,5,1,4,0,0,2,0.2,11,17,-6
+15,Pittsburgh Penguins,2019,4,0,4,0,0,1,0,6,14,-8
+16,Tampa Bay Lightning,2019,4,0,4,0,0,0,0,8,19,-11
+1,Washington Capitals,2018,24,16,8,0,3,2,0.667,86,61,25
+2,Vegas Golden Knights,2018,20,13,7,0,2,1,0.65,57,47,10
+3,Tampa Bay Lightning,2018,17,11,6,0,1,0,0.647,50,48,2
+4,Winnipeg Jets,2018,17,9,8,0,0,1,0.529,53,42,11
+5,Nashville Predators,2018,13,7,6,0,1,0,0.538,41,42,-1
+6,San Jose Sharks,2018,10,6,4,0,1,1,0.6,30,26,4
+7,Pittsburgh Penguins,2018,12,6,6,0,0,1,0.5,42,34,8
+8,Boston Bruins,2018,12,5,7,0,0,1,0.417,41,37,4
+9,Toronto Maple Leafs,2018,7,3,4,0,0,0,0.429,20,28,-8
+10,Philadelphia Flyers,2018,6,2,4,0,0,0,0.333,15,28,-13
+11,Colorado Avalanche,2018,6,2,4,0,0,0,0.333,15,22,-7
+12,Columbus Blue Jackets,2018,6,2,4,0,2,2,0.333,18,24,-6
+13,Minnesota Wild,2018,5,1,4,0,0,0,0.2,9,16,-7
+14,New Jersey Devils,2018,5,1,4,0,0,0,0.2,12,18,-6
+15,Los Angeles Kings,2018,4,0,4,0,0,1,0,3,7,-4
+16,Anaheim Ducks,2018,4,0,4,0,0,0,0,4,16,-12
+1,Pittsburgh Penguins,2017,25,16,9,0,2,2,0.64,77,57,20
+2,Nashville Predators,2017,22,14,8,0,2,1,0.636,60,48,12
+3,Ottawa Senators,2017,19,11,8,0,6,2,0.579,47,50,-3
+4,Anaheim Ducks,2017,17,10,7,0,4,1,0.588,50,52,-2
+5,Edmonton Oilers,2017,13,7,6,0,1,3,0.538,36,35,1
+6,Washington Capitals,2017,13,7,6,0,4,2,0.538,36,36,0
+7,St. Louis Blues,2017,11,6,5,0,2,0,0.545,22,23,-1
+8,New York Rangers,2017,12,6,6,0,1,3,0.5,34,30,4
+9,San Jose Sharks,2017,6,2,4,0,1,1,0.333,14,12,2
+10,Montreal Canadiens,2017,6,2,4,0,1,1,0.333,11,14,-3
+11,Boston Bruins,2017,6,2,4,0,1,3,0.333,13,15,-2
+12,Toronto Maple Leafs,2017,6,2,4,0,2,3,0.333,16,18,-2
+13,Minnesota Wild,2017,5,1,4,0,0,2,0.2,8,11,-3
+14,Columbus Blue Jackets,2017,5,1,4,0,0,1,0.2,13,21,-8
+15,Calgary Flames,2017,4,0,4,0,0,1,0,9,14,-5
+16,Chicago Blackhawks,2017,4,0,4,0,0,1,0,3,13,-10
+1,Pittsburgh Penguins,2016,24,16,8,0,4,3,0.667,73,55,18
+2,San Jose Sharks,2016,24,14,10,0,1,4,0.583,75,56,19
+3,Tampa Bay Lightning,2016,17,11,6,0,3,1,0.647,48,40,8
+4,St. Louis Blues,2016,20,10,10,0,2,2,0.5,57,56,1
+5,Dallas Stars,2016,13,7,6,0,1,2,0.538,35,42,-7
+6,Nashville Predators,2016,14,7,7,0,2,0,0.5,31,43,-12
+7,Washington Capitals,2016,12,6,6,0,1,2,0.5,29,22,7
+8,New York Islanders,2016,11,5,6,0,3,2,0.455,26,32,-6
+9,Chicago Blackhawks,2016,7,3,4,0,1,1,0.429,20,19,1
+10,Anaheim Ducks,2016,7,3,4,0,0,0,0.429,18,14,4
+11,Minnesota Wild,2016,6,2,4,0,1,0,0.333,17,21,-4
+12,Florida Panthers,2016,6,2,4,0,0,3,0.333,14,15,-1
+13,Philadelphia Flyers,2016,6,2,4,0,0,0,0.333,6,14,-8
+14,New York Rangers,2016,5,1,4,0,0,0,0.2,10,21,-11
+15,Detroit Red Wings,2016,5,1,4,0,0,0,0.2,8,12,-4
+16,Los Angeles Kings,2016,5,1,4,0,1,0,0.2,11,16,-5
+1,Chicago Blackhawks,2015,23,16,7,0,4,1,0.696,69,60,9
+2,Tampa Bay Lightning,2015,26,14,12,0,3,0,0.538,65,62,3
+3,Anaheim Ducks,2015,16,11,5,0,3,3,0.688,57,42,15
+4,New York Rangers,2015,19,11,8,0,4,1,0.579,45,41,4
+5,Washington Capitals,2015,14,7,7,0,1,3,0.5,28,28,0
+6,Montreal Canadiens,2015,12,6,6,0,2,1,0.5,25,29,-4
+7,Calgary Flames,2015,11,5,6,0,1,1,0.455,27,33,-6
+8,Minnesota Wild,2015,10,4,6,0,0,0,0.4,24,27,-3
+9,New York Islanders,2015,7,3,4,0,1,1,0.429,15,16,-1
+10,Detroit Red Wings,2015,7,3,4,0,0,1,0.429,15,17,-2
+11,Ottawa Senators,2015,6,2,4,0,0,2,0.333,12,12,0
+12,Nashville Predators,2015,6,2,4,0,0,2,0.333,21,19,2
+13,Vancouver Canucks,2015,6,2,4,0,0,0,0.333,14,18,-4
+14,St. Louis Blues,2015,6,2,4,0,0,0,0.333,14,17,-3
+15,Pittsburgh Penguins,2015,5,1,4,0,0,2,0.2,8,11,-3
+16,Winnipeg Jets,2015,4,0,4,0,0,1,0,9,16,-7
+1,Los Angeles Kings,2014,26,16,10,0,5,2,0.615,88,70,18
+2,New York Rangers,2014,25,13,12,0,2,4,0.52,64,60,4
+3,Chicago Blackhawks,2014,19,11,8,0,4,3,0.579,58,55,3
+4,Montreal Canadiens,2014,17,10,7,0,3,2,0.588,51,46,5
+5,Boston Bruins,2014,12,7,5,0,2,1,0.583,30,26,4
+6,Anaheim Ducks,2014,13,7,6,0,1,1,0.538,35,37,-2
+7,Pittsburgh Penguins,2014,13,7,6,0,0,3,0.538,35,33,2
+8,Minnesota Wild,2014,13,6,7,0,2,3,0.462,35,35,0
+9,Colorado Avalanche,2014,7,3,4,0,2,2,0.429,20,22,-2
+10,Philadelphia Flyers,2014,7,3,4,0,0,0,0.429,16,19,-3
+11,San Jose Sharks,2014,7,3,4,0,1,0,0.429,22,26,-4
+12,Dallas Stars,2014,6,2,4,0,0,1,0.333,18,20,-2
+13,Columbus Blue Jackets,2014,6,2,4,0,2,0,0.333,18,21,-3
+14,St. Louis Blues,2014,6,2,4,0,2,2,0.333,14,20,-6
+15,Detroit Red Wings,2014,5,1,4,0,0,1,0.2,6,14,-8
+16,Tampa Bay Lightning,2014,4,0,4,0,0,1,0,10,16,-6
+1,Chicago Blackhawks,2013,23,16,7,0,5,2,0.696,64,48,16
+2,Boston Bruins,2013,22,14,8,0,5,3,0.636,65,47,18
+3,Los Angeles Kings,2013,18,9,9,0,1,3,0.5,37,34,3
+4,Pittsburgh Penguins,2013,15,8,7,0,2,2,0.533,49,40,9
+5,San Jose Sharks,2013,11,7,4,0,3,0,0.636,25,22,3
+6,Detroit Red Wings,2013,14,7,7,0,3,2,0.5,33,37,-4
+7,Ottawa Senators,2013,10,5,5,0,2,0,0.5,31,31,0
+8,New York Rangers,2013,12,5,7,0,1,3,0.417,26,28,-2
+9,Anaheim Ducks,2013,7,3,4,0,1,3,0.429,21,18,3
+10,Toronto Maple Leafs,2013,7,3,4,0,0,2,0.429,18,22,-4
+11,Washington Capitals,2013,7,3,4,0,2,0,0.429,12,16,-4
+12,St. Louis Blues,2013,6,2,4,0,1,1,0.333,10,12,-2
+13,New York Islanders,2013,6,2,4,0,0,2,0.333,17,25,-8
+14,Minnesota Wild,2013,5,1,4,0,1,1,0.2,7,17,-10
+15,Montreal Canadiens,2013,5,1,4,0,0,1,0.2,9,20,-11
+16,Vancouver Canucks,2013,4,0,4,0,0,2,0,8,15,-7
+1,Los Angeles Kings,2012,20,16,4,0,4,0,0.8,57,30,27
+2,New Jersey Devils,2012,24,14,10,0,4,3,0.583,59,58,1
+3,New York Rangers,2012,20,10,10,0,2,3,0.5,43,41,2
+4,Phoenix Coyotes,2012,16,9,7,0,4,3,0.563,37,35,2
+5,Washington Capitals,2012,14,7,7,0,2,4,0.5,29,30,-1
+6,Nashville Predators,2012,10,5,5,0,0,1,0.5,22,21,1
+7,Philadelphia Flyers,2012,11,5,6,0,2,1,0.455,41,44,-3
+8,St. Louis Blues,2012,9,4,5,0,0,1,0.444,20,23,-3
+9,Boston Bruins,2012,7,3,4,0,2,2,0.429,15,16,-1
+10,Ottawa Senators,2012,7,3,4,0,2,0,0.429,13,14,-1
+11,Florida Panthers,2012,7,3,4,0,0,2,0.429,17,18,-1
+12,Pittsburgh Penguins,2012,6,2,4,0,0,1,0.333,26,30,-4
+13,Chicago Blackhawks,2012,6,2,4,0,2,3,0.333,12,17,-5
+14,Detroit Red Wings,2012,5,1,4,0,0,0,0.2,9,13,-4
+15,Vancouver Canucks,2012,5,1,4,0,0,1,0.2,8,12,-4
+16,San Jose Sharks,2012,5,1,4,0,1,0,0.2,8,14,-6
+1,Boston Bruins,2011,25,16,9,0,4,1,0.64,81,53,28
+2,Vancouver Canucks,2011,25,15,10,0,4,2,0.6,58,69,-11
+3,Tampa Bay Lightning,2011,18,11,7,0,1,1,0.611,59,45,14
+4,San Jose Sharks,2011,18,9,9,0,5,1,0.5,51,58,-7
+5,Detroit Red Wings,2011,11,7,4,0,0,2,0.636,36,28,8
+6,Nashville Predators,2011,12,6,6,0,2,1,0.5,33,34,-1
+7,Washington Capitals,2011,9,4,5,0,2,1,0.444,23,24,-1
+8,Philadelphia Flyers,2011,11,4,7,0,1,2,0.364,29,38,-9
+9,Pittsburgh Penguins,2011,7,3,4,0,1,0,0.429,14,22,-8
+10,Chicago Blackhawks,2011,7,3,4,0,1,1,0.429,22,16,6
+11,Montreal Canadiens,2011,7,3,4,0,0,3,0.429,17,17,0
+12,Buffalo Sabres,2011,7,3,4,0,1,1,0.429,18,22,-4
+13,Anaheim Ducks,2011,6,2,4,0,0,1,0.333,20,22,-2
+14,Los Angeles Kings,2011,6,2,4,0,0,3,0.333,20,20,0
+15,New York Rangers,2011,5,1,4,0,0,2,0.2,8,13,-5
+16,Phoenix Coyotes,2011,4,0,4,0,0,0,0,10,18,-8
+1,Chicago Blackhawks,2010,22,16,6,0,3,1,0.727,78,62,16
+2,Philadelphia Flyers,2010,23,14,9,0,3,2,0.609,76,61,15
+3,Montreal Canadiens,2010,19,9,10,0,1,1,0.474,46,57,-11
+4,San Jose Sharks,2010,15,8,7,0,3,2,0.533,41,41,0
+5,Pittsburgh Penguins,2010,13,7,6,0,1,1,0.538,42,38,4
+6,Boston Bruins,2010,13,7,6,0,2,1,0.538,36,37,-1
+7,Vancouver Canucks,2010,12,6,6,0,1,1,0.5,43,41,2
+8,Detroit Red Wings,2010,12,5,7,0,0,1,0.417,43,33,10
+9,Phoenix Coyotes,2010,7,3,4,0,0,0,0.429,18,26,-8
+10,Washington Capitals,2010,7,3,4,0,1,1,0.429,22,20,2
+11,Ottawa Senators,2010,6,2,4,0,1,1,0.333,19,24,-5
+12,Colorado Avalanche,2010,6,2,4,0,1,2,0.333,11,19,-8
+13,Buffalo Sabres,2010,6,2,4,0,0,1,0.333,15,16,-1
+14,Los Angeles Kings,2010,6,2,4,0,1,1,0.333,18,25,-7
+15,Nashville Predators,2010,6,2,4,0,0,1,0.333,15,17,-2
+16,New Jersey Devils,2010,5,1,4,0,0,1,0.2,9,15,-6
+1,Pittsburgh Penguins,2009,24,16,8,0,3,1,0.667,79,64,15
+2,Detroit Red Wings,2009,23,15,8,0,2,2,0.652,76,48,28
+3,Chicago Blackhawks,2009,17,9,8,0,3,2,0.529,54,54,0
+4,Carolina Hurricanes,2009,18,8,10,0,3,1,0.444,42,52,-10
+5,Boston Bruins,2009,11,7,4,0,0,2,0.636,34,22,12
+6,Anaheim Ducks,2009,13,7,6,0,1,1,0.538,35,32,3
+7,Washington Capitals,2009,14,7,7,0,1,2,0.5,41,38,3
+8,Vancouver Canucks,2009,10,6,4,0,1,1,0.6,30,28,2
+9,New Jersey Devils,2009,7,3,4,0,1,1,0.429,15,17,-2
+10,New York Rangers,2009,7,3,4,0,0,0,0.429,11,19,-8
+11,Philadelphia Flyers,2009,6,2,4,0,0,1,0.333,16,18,-2
+12,Calgary Flames,2009,6,2,4,0,0,1,0.333,16,21,-5
+13,San Jose Sharks,2009,6,2,4,0,1,0,0.333,10,18,-8
+14,St. Louis Blues,2009,4,0,4,0,0,1,0,5,11,-6
+15,Montreal Canadiens,2009,4,0,4,0,0,0,0,6,17,-11
+16,Columbus Blue Jackets,2009,4,0,4,0,0,0,0,7,18,-11
+1,Detroit Red Wings,2008,22,16,6,0,1,1,0.727,72,41,31
+2,Pittsburgh Penguins,2008,20,14,6,0,2,0,0.7,61,43,18
+3,Dallas Stars,2008,18,10,8,0,3,1,0.556,45,41,4
+4,Philadelphia Flyers,2008,17,9,8,0,2,1,0.529,52,54,-2
+5,San Jose Sharks,2008,13,6,7,0,1,3,0.462,30,32,-2
+6,New York Rangers,2008,10,5,5,0,0,2,0.5,31,27,4
+7,Montreal Canadiens,2008,12,5,7,0,2,1,0.417,33,35,-2
+8,Colorado Avalanche,2008,10,4,6,0,1,2,0.4,26,33,-7
+9,Calgary Flames,2008,7,3,4,0,0,0,0.429,17,19,-2
+10,Boston Bruins,2008,7,3,4,0,1,1,0.429,15,19,-4
+11,Washington Capitals,2008,7,3,4,0,0,2,0.429,20,23,-3
+12,Minnesota Wild,2008,6,2,4,0,2,1,0.333,12,17,-5
+13,Anaheim Ducks,2008,6,2,4,0,0,0,0.333,13,20,-7
+14,Nashville Predators,2008,6,2,4,0,0,1,0.333,12,17,-5
+15,New Jersey Devils,2008,5,1,4,0,1,0,0.2,12,19,-7
+16,Ottawa Senators,2008,4,0,4,0,0,0,0,5,16,-11
+1,Anaheim Ducks,2007,21,16,5,0,4,1,0.762,58,45,13
+2,Ottawa Senators,2007,20,13,7,0,2,1,0.65,59,47,12
+3,Detroit Red Wings,2007,18,10,8,0,2,2,0.556,48,35,13
+4,Buffalo Sabres,2007,16,9,7,0,1,3,0.563,44,39,5
+5,New York Rangers,2007,10,6,4,0,1,1,0.6,30,23,7
+6,San Jose Sharks,2007,11,6,5,0,1,1,0.545,25,27,-2
+7,New Jersey Devils,2007,11,5,6,0,2,0,0.455,30,29,1
+8,Vancouver Canucks,2007,12,5,7,0,3,3,0.417,21,26,-5
+9,Dallas Stars,2007,7,3,4,0,1,2,0.429,12,13,-1
+10,Calgary Flames,2007,6,2,4,0,0,1,0.333,10,18,-8
+11,Tampa Bay Lightning,2007,6,2,4,0,0,1,0.333,14,19,-5
+12,Minnesota Wild,2007,5,1,4,0,0,0,0.2,9,12,-3
+13,Nashville Predators,2007,5,1,4,0,0,1,0.2,14,16,-2
+14,Pittsburgh Penguins,2007,5,1,4,0,0,0,0.2,10,18,-8
+15,New York Islanders,2007,5,1,4,0,0,0,0.2,11,17,-6
+16,Atlanta Thrashers,2007,4,0,4,0,0,0,0,6,17,-11
+1,Carolina Hurricanes,2006,25,16,9,0,4,3,0.64,73,60,13
+2,Edmonton Oilers,2006,24,15,9,0,3,1,0.625,70,61,9
+3,Buffalo Sabres,2006,18,11,7,0,5,1,0.611,60,49,11
+4,Mighty Ducks of Anaheim,2006,16,9,7,0,2,1,0.563,46,36,10
+5,San Jose Sharks,2006,11,6,5,0,0,1,0.545,29,29,0
+6,New Jersey Devils,2006,9,5,4,0,0,1,0.556,27,21,6
+7,Ottawa Senators,2006,10,5,5,0,0,3,0.5,36,29,7
+8,Colorado Avalanche,2006,9,4,5,0,3,1,0.444,22,31,-9
+9,Calgary Flames,2006,7,3,4,0,1,1,0.429,16,17,-1
+10,Detroit Red Wings,2006,6,2,4,0,1,1,0.333,17,19,-2
+11,Philadelphia Flyers,2006,6,2,4,0,0,1,0.333,14,27,-13
+12,Montreal Canadiens,2006,6,2,4,0,1,2,0.333,17,15,2
+13,Nashville Predators,2006,5,1,4,0,0,0,0.2,10,17,-7
+14,Tampa Bay Lightning,2006,5,1,4,0,0,0,0.2,13,23,-10
+15,Dallas Stars,2006,5,1,4,0,0,3,0.2,15,18,-3
+16,New York Rangers,2006,4,0,4,0,0,0,0,4,17,-13
+1,Tampa Bay Lightning,2004,23,16,7,0,3,2,0.696,60,43,17
+2,Calgary Flames,2004,26,15,11,0,5,2,0.577,60,53,7
+3,Philadelphia Flyers,2004,18,11,7,0,2,0,0.611,50,43,7
+4,San Jose Sharks,2004,17,10,7,0,1,3,0.588,38,32,6
+5,Colorado Avalanche,2004,11,6,5,0,3,1,0.545,26,24,2
+6,Detroit Red Wings,2004,12,6,6,0,0,2,0.5,24,20,4
+7,Toronto Maple Leafs,2004,13,6,7,0,0,2,0.462,27,28,-1
+8,Montreal Canadiens,2004,11,4,7,0,0,3,0.364,24,28,-4
+9,Boston Bruins,2004,7,3,4,0,2,0,0.429,14,19,-5
+10,Vancouver Canucks,2004,7,3,4,0,1,1,0.429,16,19,-3
+11,Ottawa Senators,2004,7,3,4,0,1,0,0.429,11,14,-3
+12,Nashville Predators,2004,6,2,4,0,0,0,0.333,9,12,-3
+13,Dallas Stars,2004,5,1,4,0,1,1,0.2,10,19,-9
+14,New Jersey Devils,2004,5,1,4,0,0,0,0.2,9,14,-5
+15,St. Louis Blues,2004,5,1,4,0,0,1,0.2,9,12,-3
+16,New York Islanders,2004,5,1,4,0,0,1,0.2,5,12,-7
+1,New Jersey Devils,2003,24,16,8,0,2,4,0.667,63,41,22
+2,Mighty Ducks of Anaheim,2003,21,15,6,0,7,0,0.714,45,40,5
+3,Ottawa Senators,2003,18,11,7,0,4,0,0.611,43,34,9
+4,Minnesota Wild,2003,18,8,10,0,2,3,0.444,43,43,0
+5,Vancouver Canucks,2003,14,7,7,0,2,0,0.5,34,47,-13
+6,Dallas Stars,2003,12,6,6,0,0,2,0.5,34,25,9
+7,Philadelphia Flyers,2003,13,6,7,0,1,3,0.462,34,33,1
+8,Tampa Bay Lightning,2003,11,5,6,0,2,2,0.455,22,29,-7
+9,Toronto Maple Leafs,2003,7,3,4,0,2,1,0.429,16,24,-8
+10,Colorado Avalanche,2003,7,3,4,0,0,2,0.429,17,16,1
+11,St. Louis Blues,2003,7,3,4,0,0,0,0.429,21,17,4
+12,Edmonton Oilers,2003,6,2,4,0,0,0,0.333,11,20,-9
+13,Washington Capitals,2003,6,2,4,0,0,2,0.333,15,14,1
+14,Boston Bruins,2003,5,1,4,0,0,0,0.2,8,13,-5
+15,New York Islanders,2003,5,1,4,0,0,1,0.2,7,13,-6
+16,Detroit Red Wings,2003,4,0,4,0,0,2,0,6,10,-4
+1,Detroit Red Wings,2002,23,16,7,0,2,4,0.696,72,47,25
+2,Carolina Hurricanes,2002,23,13,10,0,7,2,0.565,47,43,4
+3,Colorado Avalanche,2002,21,11,10,0,3,2,0.524,54,56,-2
+4,Toronto Maple Leafs,2002,20,10,10,0,1,3,0.5,44,49,-5
+5,Ottawa Senators,2002,12,7,5,0,1,2,0.583,29,18,11
+6,San Jose Sharks,2002,12,7,5,0,0,1,0.583,34,32,2
+7,Montreal Canadiens,2002,12,6,6,0,1,1,0.5,32,39,-7
+8,St. Louis Blues,2002,10,5,5,0,0,0,0.5,24,19,5
+9,Los Angeles Kings,2002,7,3,4,0,1,0,0.429,13,16,-3
+10,New York Islanders,2002,7,3,4,0,0,0,0.429,21,22,-1
+11,New Jersey Devils,2002,6,2,4,0,0,2,0.333,11,9,2
+12,Vancouver Canucks,2002,6,2,4,0,1,0,0.333,16,22,-6
+13,Boston Bruins,2002,6,2,4,0,0,0,0.333,18,20,-2
+14,Philadelphia Flyers,2002,5,1,4,0,1,1,0.2,2,11,-9
+15,Phoenix Coyotes,2002,5,1,4,0,0,0,0.2,7,13,-6
+16,Chicago Blackhawks,2002,5,1,4,0,0,0,0.2,5,13,-8
+1,Colorado Avalanche,2001,23,16,7,0,3,3,0.696,69,41,28
+2,New Jersey Devils,2001,25,15,10,0,2,1,0.6,69,52,17
+3,St. Louis Blues,2001,15,9,6,0,3,2,0.6,40,34,6
+4,Pittsburgh Penguins,2001,18,9,9,0,3,2,0.5,38,44,-6
+5,Toronto Maple Leafs,2001,11,7,4,0,2,2,0.636,28,24,4
+6,Los Angeles Kings,2001,13,7,6,0,4,0,0.538,25,34,-9
+7,Buffalo Sabres,2001,13,7,6,0,3,2,0.538,38,30,8
+8,Dallas Stars,2001,10,4,6,0,3,2,0.4,22,26,-4
+9,Edmonton Oilers,2001,6,2,4,0,1,3,0.333,13,16,-3
+10,Detroit Red Wings,2001,6,2,4,0,0,2,0.333,17,15,2
+11,Philadelphia Flyers,2001,6,2,4,0,0,2,0.333,13,21,-8
+12,Carolina Hurricanes,2001,6,2,4,0,1,0,0.333,8,20,-12
+13,San Jose Sharks,2001,6,2,4,0,0,1,0.333,11,16,-5
+14,Washington Capitals,2001,6,2,4,0,1,1,0.333,10,14,-4
+15,Vancouver Canucks,2001,4,0,4,0,0,1,0,9,16,-7
+16,Ottawa Senators,2001,4,0,4,0,0,2,0,3,10,-7
+1,New Jersey Devils,2000,23,16,7,0,1,1,0.696,61,39,22
+2,Dallas Stars,2000,23,14,9,0,2,1,0.609,52,46,6
+3,Colorado Avalanche,2000,17,11,6,0,1,1,0.647,43,32,11
+4,Philadelphia Flyers,2000,18,11,7,0,2,1,0.611,44,40,4
+5,Pittsburgh Penguins,2000,11,6,5,0,1,2,0.545,31,23,8
+6,Toronto Maple Leafs,2000,12,6,6,0,1,0,0.5,26,26,0
+7,Detroit Red Wings,2000,9,5,4,0,0,1,0.556,23,19,4
+8,San Jose Sharks,2000,12,5,7,0,0,0,0.417,27,37,-10
+9,St. Louis Blues,2000,7,3,4,0,0,0,0.429,22,20,2
+10,Ottawa Senators,2000,6,2,4,0,0,1,0.333,10,17,-7
+11,Edmonton Oilers,2000,5,1,4,0,0,0,0.2,11,14,-3
+12,Phoenix Coyotes,2000,5,1,4,0,0,0,0.2,10,17,-7
+13,Buffalo Sabres,2000,5,1,4,0,1,0,0.2,8,14,-6
+14,Washington Capitals,2000,5,1,4,0,0,1,0.2,8,17,-9
+15,Los Angeles Kings,2000,4,0,4,0,0,0,0,6,15,-9
+16,Florida Panthers,2000,4,0,4,0,0,0,0,6,12,-6
+1,Dallas Stars,1999,23,16,7,0,4,4,0.696,64,44,20
+2,Buffalo Sabres,1999,21,14,7,0,2,1,0.667,59,49,10
+3,Colorado Avalanche,1999,19,11,8,0,3,1,0.579,56,54,2
+4,Toronto Maple Leafs,1999,17,9,8,0,3,0,0.529,43,46,-3
+5,Detroit Red Wings,1999,10,6,4,0,1,0,0.6,31,27,4
+6,Boston Bruins,1999,12,6,6,0,1,1,0.5,30,27,3
+7,Pittsburgh Penguins,1999,13,6,7,0,1,2,0.462,35,36,-1
+8,St. Louis Blues,1999,13,6,7,0,4,3,0.462,31,33,-2
+9,New Jersey Devils,1999,7,3,4,0,0,1,0.429,18,21,-3
+10,Phoenix Coyotes,1999,7,3,4,0,1,2,0.429,16,19,-3
+11,Carolina Hurricanes,1999,6,2,4,0,1,1,0.333,10,16,-6
+12,Philadelphia Flyers,1999,6,2,4,0,0,1,0.333,11,9,2
+13,San Jose Sharks,1999,6,2,4,0,0,2,0.333,17,19,-2
+14,Edmonton Oilers,1999,4,0,4,0,0,1,0,7,11,-4
+15,Mighty Ducks of Anaheim,1999,4,0,4,0,0,0,0,6,17,-11
+16,Ottawa Senators,1999,4,0,4,0,0,1,0,6,12,-6
+1,Detroit Red Wings,1998,22,16,6,0,2,1,0.727,75,49,26
+2,Washington Capitals,1998,21,12,9,0,5,2,0.571,53,44,9
+3,Buffalo Sabres,1998,15,10,5,0,3,3,0.667,46,32,14
+4,Dallas Stars,1998,17,10,7,0,3,1,0.588,36,32,4
+5,St. Louis Blues,1998,10,6,4,0,0,1,0.6,29,31,-2
+6,Ottawa Senators,1998,11,5,6,0,2,0,0.455,20,30,-10
+7,Edmonton Oilers,1998,12,5,7,0,0,2,0.417,24,25,-1
+8,Montreal Canadiens,1998,10,4,6,0,1,2,0.4,28,32,-4
+9,Colorado Avalanche,1998,7,3,4,0,1,0,0.429,16,19,-3
+10,San Jose Sharks,1998,6,2,4,0,1,1,0.333,12,16,-4
+11,Phoenix Coyotes,1998,6,2,4,0,0,0,0.333,18,24,-6
+12,New Jersey Devils,1998,6,2,4,0,0,2,0.333,12,13,-1
+13,Boston Bruins,1998,6,2,4,0,1,2,0.333,13,15,-2
+14,Pittsburgh Penguins,1998,6,2,4,0,0,1,0.333,15,18,-3
+15,Philadelphia Flyers,1998,5,1,4,0,0,1,0.2,9,18,-9
+16,Los Angeles Kings,1998,4,0,4,0,0,0,0,8,16,-8
+1,Detroit Red Wings,1997,20,16,4,0,3,0,0.8,58,38,20
+2,Philadelphia Flyers,1997,19,12,7,0,0,1,0.632,67,55,12
+3,Colorado Avalanche,1997,17,10,7,0,1,1,0.588,59,41,18
+4,New York Rangers,1997,15,9,6,0,3,0,0.6,36,35,1
+5,New Jersey Devils,1997,10,5,5,0,0,2,0.5,27,21,6
+6,Edmonton Oilers,1997,12,5,7,0,3,1,0.417,32,37,-5
+7,Buffalo Sabres,1997,12,5,7,0,2,1,0.417,27,34,-7
+8,Mighty Ducks of Anaheim,1997,11,4,7,0,1,3,0.364,25,30,-5
+9,Dallas Stars,1997,7,3,4,0,0,3,0.429,18,21,-3
+10,Phoenix Coyotes,1997,7,3,4,0,0,1,0.429,17,17,0
+11,Ottawa Senators,1997,7,3,4,0,1,1,0.429,13,14,-1
+12,Chicago Blackhawks,1997,6,2,4,0,1,0,0.333,14,28,-14
+13,St. Louis Blues,1997,6,2,4,0,0,0,0.333,12,13,-1
+14,Florida Panthers,1997,5,1,4,0,0,2,0.2,10,13,-3
+15,Montreal Canadiens,1997,5,1,4,0,1,0,0.2,11,22,-11
+16,Pittsburgh Penguins,1997,5,1,4,0,0,0,0.2,13,20,-7
+1,Colorado Avalanche,1996,22,16,6,0,5,2,0.727,80,51,29
+2,Florida Panthers,1996,22,12,10,0,2,1,0.545,61,57,4
+3,Pittsburgh Penguins,1996,18,11,7,0,1,0,0.611,57,52,5
+4,Detroit Red Wings,1996,19,10,9,0,1,2,0.526,58,46,12
+5,St. Louis Blues,1996,13,7,6,0,2,3,0.538,37,37,0
+6,Chicago Blackhawks,1996,10,6,4,0,3,2,0.6,30,28,2
+7,Philadelphia Flyers,1996,12,6,6,0,0,4,0.5,37,28,9
+8,New York Rangers,1996,11,5,6,0,0,1,0.455,34,38,-4
+9,Vancouver Canucks,1996,6,2,4,0,0,1,0.333,17,24,-7
+10,Montreal Canadiens,1996,6,2,4,0,1,0,0.333,17,19,-2
+11,Tampa Bay Lightning,1996,6,2,4,0,2,0,0.333,13,26,-13
+12,Toronto Maple Leafs,1996,6,2,4,0,2,1,0.333,15,21,-6
+13,Winnipeg Jets,1996,6,2,4,0,0,0,0.333,10,20,-10
+14,Washington Capitals,1996,6,2,4,0,0,1,0.333,17,21,-4
+15,Boston Bruins,1996,5,1,4,0,0,0,0.2,16,22,-6
+16,Calgary Flames,1996,4,0,4,0,0,1,0,7,16,-9
+1,New Jersey Devils,1995,20,16,4,0,2,1,0.8,67,34,33
+2,Detroit Red Wings,1995,18,12,6,0,3,0,0.667,61,44,17
+3,Philadelphia Flyers,1995,15,10,5,0,4,0,0.667,50,43,7
+4,Chicago Blackhawks,1995,16,9,7,0,3,4,0.563,45,39,6
+5,Pittsburgh Penguins,1995,12,5,7,0,1,1,0.417,37,43,-6
+6,New York Rangers,1995,10,4,6,0,1,2,0.4,35,37,-2
+7,San Jose Sharks,1995,11,4,7,0,2,0,0.364,32,59,-27
+8,Vancouver Canucks,1995,11,4,7,0,1,3,0.364,33,38,-5
+9,Washington Capitals,1995,7,3,4,0,0,1,0.429,26,29,-3
+10,Calgary Flames,1995,7,3,4,0,0,2,0.429,35,26,9
+11,Toronto Maple Leafs,1995,7,3,4,0,1,0,0.429,20,22,-2
+12,St. Louis Blues,1995,7,3,4,0,0,1,0.429,27,27,0
+13,Quebec Nordiques,1995,6,2,4,0,0,1,0.333,19,25,-6
+14,Boston Bruins,1995,5,1,4,0,0,1,0.2,5,14,-9
+15,Dallas Stars,1995,5,1,4,0,0,0,0.2,10,17,-7
+16,Buffalo Sabres,1995,5,1,4,0,0,1,0.2,13,18,-5
+1,New York Rangers,1994,23,16,7,0,2,2,0.696,81,50,31
+2,Vancouver Canucks,1994,24,15,9,0,6,1,0.625,76,61,15
+3,New Jersey Devils,1994,20,11,9,0,2,4,0.55,52,49,3
+4,Toronto Maple Leafs,1994,18,9,9,0,3,2,0.5,50,47,3
+5,San Jose Sharks,1994,14,7,7,0,0,1,0.5,42,53,-11
+6,Boston Bruins,1994,13,6,7,0,1,2,0.462,39,42,-3
+7,Dallas Stars,1994,9,5,4,0,1,1,0.556,27,28,-1
+8,Washington Capitals,1994,11,5,6,0,0,0,0.455,32,32,0
+9,Montreal Canadiens,1994,7,3,4,0,1,0,0.429,20,22,-2
+10,Buffalo Sabres,1994,7,3,4,0,1,0,0.429,14,14,0
+11,Calgary Flames,1994,7,3,4,0,0,3,0.429,20,23,-3
+12,Detroit Red Wings,1994,7,3,4,0,0,0,0.429,27,21,6
+13,Pittsburgh Penguins,1994,6,2,4,0,0,0,0.333,12,20,-8
+14,Chicago Blackhawks,1994,6,2,4,0,1,1,0.333,10,15,-5
+15,St. Louis Blues,1994,4,0,4,0,0,1,0,10,16,-6
+16,New York Islanders,1994,4,0,4,0,0,0,0,3,22,-19
+1,Montreal Canadiens,1993,20,16,4,0,10,1,0.8,66,51,15
+2,Los Angeles Kings,1993,24,13,11,0,2,4,0.542,93,91,2
+3,Toronto Maple Leafs,1993,21,11,10,0,4,2,0.524,69,63,6
+4,New York Islanders,1993,18,9,9,0,4,2,0.5,58,65,-7
+5,St. Louis Blues,1993,11,7,4,0,2,1,0.636,24,28,-4
+6,Pittsburgh Penguins,1993,12,7,5,0,0,1,0.583,50,37,13
+7,Vancouver Canucks,1993,12,6,6,0,1,2,0.5,46,43,3
+8,Buffalo Sabres,1993,8,4,4,0,3,3,0.5,31,28,3
+9,Detroit Red Wings,1993,7,3,4,0,0,2,0.429,30,24,6
+10,Calgary Flames,1993,6,2,4,0,0,0,0.333,28,33,-5
+11,Quebec Nordiques,1993,6,2,4,0,1,2,0.333,16,19,-3
+12,Washington Capitals,1993,6,2,4,0,0,3,0.333,22,23,-1
+13,Winnipeg Jets,1993,6,2,4,0,1,1,0.333,17,21,-4
+14,New Jersey Devils,1993,5,1,4,0,0,0,0.2,13,23,-10
+15,Boston Bruins,1993,4,0,4,0,0,3,0,12,19,-7
+16,Chicago Blackhawks,1993,4,0,4,0,0,1,0,6,13,-7
+1,Pittsburgh Penguins,1992,21,16,5,0,2,1,0.762,83,63,20
+2,Chicago Blackhawks,1992,18,12,6,0,1,1,0.667,65,48,17
+3,Boston Bruins,1992,15,8,7,0,3,1,0.533,40,51,-11
+4,Edmonton Oilers,1992,16,8,8,0,1,1,0.5,49,54,-5
+5,Vancouver Canucks,1992,13,6,7,0,0,1,0.462,44,35,9
+6,New York Rangers,1992,13,6,7,0,1,1,0.462,47,49,-2
+7,Detroit Red Wings,1992,11,4,7,0,2,0,0.364,29,30,-1
+8,Montreal Canadiens,1992,11,4,7,0,1,2,0.364,29,32,-3
+9,Minnesota North Stars,1992,7,3,4,0,0,2,0.429,19,23,-4
+10,Winnipeg Jets,1992,7,3,4,0,0,0,0.429,17,29,-12
+11,Buffalo Sabres,1992,7,3,4,0,0,2,0.429,24,19,5
+12,Hartford Whalers,1992,7,3,4,0,1,1,0.429,18,21,-3
+13,New Jersey Devils,1992,7,3,4,0,0,0,0.429,25,28,-3
+14,Washington Capitals,1992,7,3,4,0,0,0,0.429,27,25,2
+15,St. Louis Blues,1992,6,2,4,0,1,0,0.333,19,23,-4
+16,Los Angeles Kings,1992,6,2,4,0,0,0,0.333,18,23,-5
+1,Pittsburgh Penguins,1991,24,16,8,0,2,1,0.667,95,68,27
+2,Minnesota North Stars,1991,23,14,9,0,1,0,0.609,81,75,6
+3,Boston Bruins,1991,19,10,9,0,1,2,0.526,60,62,-2
+4,Edmonton Oilers,1991,18,9,9,0,4,2,0.5,57,60,-3
+5,Montreal Canadiens,1991,13,7,6,0,3,0,0.538,47,42,5
+6,Los Angeles Kings,1991,12,6,6,0,2,4,0.5,46,37,9
+7,St. Louis Blues,1991,13,6,7,0,0,0,0.462,41,42,-1
+8,Washington Capitals,1991,11,5,6,0,1,1,0.455,29,35,-6
+9,New Jersey Devils,1991,7,3,4,0,0,1,0.429,21,21,0
+10,Calgary Flames,1991,7,3,4,0,1,1,0.429,20,22,-2
+11,Detroit Red Wings,1991,7,3,4,0,0,0,0.429,20,24,-4
+12,Hartford Whalers,1991,6,2,4,0,0,0,0.333,17,24,-7
+13,Buffalo Sabres,1991,6,2,4,0,0,1,0.333,24,29,-5
+14,New York Rangers,1991,6,2,4,0,0,1,0.333,16,16,0
+15,Chicago Blackhawks,1991,6,2,4,0,0,1,0.333,16,23,-7
+16,Vancouver Canucks,1991,6,2,4,0,1,1,0.333,16,26,-10
+1,Edmonton Oilers,1990,22,16,6,0,3,1,0.727,93,60,33
+2,Boston Bruins,1990,21,13,8,0,1,2,0.619,62,59,3
+3,Chicago Blackhawks,1990,20,10,10,0,0,0,0.5,69,65,4
+4,Washington Capitals,1990,15,8,7,0,3,0,0.533,49,48,1
+5,St. Louis Blues,1990,12,7,5,0,1,0,0.583,42,44,-2
+6,New York Rangers,1990,10,5,5,0,0,3,0.5,37,35,2
+7,Montreal Canadiens,1990,11,5,6,0,1,1,0.455,29,29,0
+8,Los Angeles Kings,1990,10,4,6,0,2,1,0.4,39,48,-9
+9,Minnesota North Stars,1990,7,3,4,0,0,0,0.429,18,21,-3
+10,Winnipeg Jets,1990,7,3,4,0,1,1,0.429,22,24,-2
+11,Hartford Whalers,1990,7,3,4,0,1,0,0.429,21,23,-2
+12,Calgary Flames,1990,6,2,4,0,0,2,0.333,24,29,-5
+13,Buffalo Sabres,1990,6,2,4,0,0,1,0.333,13,17,-4
+14,New Jersey Devils,1990,6,2,4,0,0,1,0.333,18,21,-3
+15,Toronto Maple Leafs,1990,5,1,4,0,0,1,0.2,16,20,-4
+16,New York Islanders,1990,5,1,4,0,1,0,0.2,13,22,-9
+1,Calgary Flames,1989,22,16,6,0,3,2,0.727,82,55,27
+2,Montreal Canadiens,1989,21,14,7,0,4,1,0.667,67,51,16
+3,Philadelphia Flyers,1989,19,10,9,0,1,2,0.526,64,60,4
+4,Chicago Blackhawks,1989,16,9,7,0,1,2,0.563,52,45,7
+5,Pittsburgh Penguins,1989,11,7,4,0,1,0,0.636,43,42,1
+6,Boston Bruins,1989,10,5,5,0,0,1,0.5,29,30,-1
+7,St. Louis Blues,1989,10,5,5,0,3,0,0.5,35,34,1
+8,Los Angeles Kings,1989,11,4,7,0,0,1,0.364,36,42,-6
+9,Vancouver Canucks,1989,7,3,4,0,1,1,0.429,20,26,-6
+10,Edmonton Oilers,1989,7,3,4,0,0,0,0.429,20,25,-5
+11,Detroit Red Wings,1989,6,2,4,0,0,1,0.333,18,25,-7
+12,Washington Capitals,1989,6,2,4,0,1,0,0.333,19,25,-6
+13,Buffalo Sabres,1989,5,1,4,0,0,0,0.2,14,16,-2
+14,Minnesota North Stars,1989,5,1,4,0,0,2,0.2,15,23,-8
+15,Hartford Whalers,1989,4,0,4,0,0,2,0,11,18,-7
+16,New York Rangers,1989,4,0,4,0,0,0,0,11,19,-8
+1,Edmonton Oilers,1988,19,16,2,1,2,0,0.868,87,56,31
+2,Boston Bruins,1988,23,12,10,1,0,2,0.543,85,72,13
+3,New Jersey Devils,1988,20,11,9,0,1,2,0.55,67,71,-4
+4,Detroit Red Wings,1988,16,9,7,0,0,2,0.563,69,57,12
+5,Washington Capitals,1988,14,7,7,0,1,1,0.5,54,50,4
+6,St. Louis Blues,1988,10,5,5,0,0,0,0.5,35,38,-3
+7,Montreal Canadiens,1988,11,5,6,0,0,0,0.455,33,35,-2
+8,Calgary Flames,1988,9,4,5,0,0,1,0.444,41,36,5
+9,Philadelphia Flyers,1988,7,3,4,0,1,1,0.429,25,31,-6
+10,Buffalo Sabres,1988,6,2,4,0,1,0,0.333,22,28,-6
+11,Toronto Maple Leafs,1988,6,2,4,0,1,0,0.333,20,32,-12
+12,Hartford Whalers,1988,6,2,4,0,0,0,0.333,20,23,-3
+13,New York Islanders,1988,6,2,4,0,2,0,0.333,18,23,-5
+14,Los Angeles Kings,1988,5,1,4,0,0,0,0.2,18,30,-12
+15,Winnipeg Jets,1988,5,1,4,0,0,0,0.2,17,25,-8
+16,Chicago Blackhawks,1988,5,1,4,0,0,0,0.2,17,21,-4
+1,Edmonton Oilers,1987,21,16,5,0,2,0,0.762,87,57,30
+2,Philadelphia Flyers,1987,26,15,11,0,1,1,0.577,85,73,12
+3,Montreal Canadiens,1987,17,10,7,0,2,1,0.588,67,54,13
+4,Detroit Red Wings,1987,16,9,7,0,1,1,0.563,45,40,5
+5,Quebec Nordiques,1987,13,7,6,0,1,2,0.538,48,45,3
+6,Toronto Maple Leafs,1987,13,7,6,0,2,0,0.538,33,32,1
+7,New York Islanders,1987,14,7,7,0,1,0,0.5,35,42,-7
+8,Winnipeg Jets,1987,10,4,6,0,0,2,0.4,31,32,-1
+9,Washington Capitals,1987,7,3,4,0,0,1,0.429,19,19,0
+10,Calgary Flames,1987,6,2,4,0,1,0,0.333,15,22,-7
+11,Hartford Whalers,1987,6,2,4,0,1,1,0.333,19,27,-8
+12,New York Rangers,1987,6,2,4,0,0,0,0.333,13,22,-9
+13,St. Louis Blues,1987,6,2,4,0,0,1,0.333,12,15,-3
+14,Los Angeles Kings,1987,5,1,4,0,0,0,0.2,20,32,-12
+15,Chicago Blackhawks,1987,4,0,4,0,0,1,0,6,15,-9
+16,Boston Bruins,1987,4,0,4,0,0,1,0,11,19,-8
+1,Montreal Canadiens,1986,20,15,5,0,3,1,0.75,56,41,15
+2,Calgary Flames,1986,22,12,10,0,1,3,0.545,81,69,12
+3,St. Louis Blues,1986,19,10,9,0,2,0,0.526,64,70,-6
+4,New York Rangers,1986,16,8,8,0,2,1,0.5,47,55,-8
+5,Toronto Maple Leafs,1986,10,6,4,0,0,1,0.6,40,33,7
+6,Edmonton Oilers,1986,10,6,4,0,1,0,0.6,41,30,11
+7,Hartford Whalers,1986,10,6,4,0,2,1,0.6,29,23,6
+8,Washington Capitals,1986,9,5,4,0,0,2,0.556,36,24,12
+9,Minnesota North Stars,1986,5,2,3,0,0,0,0.4,20,18,2
+10,Philadelphia Flyers,1986,5,2,3,0,0,0,0.4,15,18,-3
+11,Chicago Black Hawks,1986,3,0,3,0,0,0,0,9,18,-9
+12,Winnipeg Jets,1986,3,0,3,0,0,1,0,8,15,-7
+13,Vancouver Canucks,1986,3,0,3,0,0,0,0,5,17,-12
+14,Boston Bruins,1986,3,0,3,0,0,0,0,6,10,-4
+15,Quebec Nordiques,1986,3,0,3,0,0,1,0,7,16,-9
+16,New York Islanders,1986,3,0,3,0,0,0,0,4,11,-7
+1,Edmonton Oilers,1985,18,15,3,0,2,0,0.833,98,57,41
+2,Philadelphia Flyers,1985,19,12,7,0,1,1,0.632,61,54,7
+3,Chicago Black Hawks,1985,15,9,6,0,2,1,0.6,81,81,0
+4,Quebec Nordiques,1985,18,9,9,0,4,0,0.5,58,63,-5
+5,Montreal Canadiens,1985,12,6,6,0,0,3,0.5,43,41,2
+6,Minnesota North Stars,1985,9,5,4,0,1,2,0.556,38,38,0
+7,New York Islanders,1985,10,4,6,0,0,2,0.4,25,28,-3
+8,Winnipeg Jets,1985,8,3,5,0,1,0,0.375,26,35,-9
+9,Boston Bruins,1985,5,2,3,0,0,0,0.4,17,19,-2
+10,Buffalo Sabres,1985,5,2,3,0,0,0,0.4,22,22,0
+11,Washington Capitals,1985,5,2,3,0,2,0,0.4,12,14,-2
+12,Calgary Flames,1985,4,1,3,0,0,1,0.25,13,15,-2
+13,Detroit Red Wings,1985,3,0,3,0,0,0,0,8,23,-15
+14,Los Angeles Kings,1985,3,0,3,0,0,2,0,7,11,-4
+15,New York Rangers,1985,3,0,3,0,0,1,0,10,14,-4
+16,St. Louis Blues,1985,3,0,3,0,0,0,0,5,9,-4
+1,Edmonton Oilers,1984,19,15,4,0,1,2,0.789,94,56,38
+2,New York Islanders,1984,21,12,9,0,2,0,0.571,62,60,2
+3,Montreal Canadiens,1984,15,9,6,0,0,1,0.6,42,32,10
+4,Minnesota North Stars,1984,16,7,9,0,1,1,0.438,47,53,-6
+5,Calgary Flames,1984,11,6,5,0,2,0,0.545,41,46,-5
+6,St. Louis Blues,1984,11,6,5,0,3,1,0.545,30,31,-1
+7,Quebec Nordiques,1984,9,5,4,0,1,0,0.556,26,25,1
+8,Washington Capitals,1984,8,4,4,0,0,1,0.5,28,25,3
+9,Chicago Black Hawks,1984,5,2,3,0,0,0,0.4,14,18,-4
+10,New York Rangers,1984,5,2,3,0,0,1,0.4,14,13,1
+11,Vancouver Canucks,1984,4,1,3,0,0,0,0.25,13,14,-1
+12,Detroit Red Wings,1984,4,1,3,0,0,2,0.25,12,13,-1
+13,Boston Bruins,1984,3,0,3,0,0,0,0,2,10,-8
+14,Buffalo Sabres,1984,3,0,3,0,0,0,0,5,13,-8
+15,Winnipeg Jets,1984,3,0,3,0,0,1,0,7,18,-11
+16,Philadelphia Flyers,1984,3,0,3,0,0,0,0,5,15,-10
+1,New York Islanders,1983,20,15,5,0,0,0,0.75,94,53,41
+2,Edmonton Oilers,1983,16,11,5,0,0,0,0.688,80,50,30
+3,Boston Bruins,1983,17,9,8,0,2,0,0.529,65,61,4
+4,Chicago Black Hawks,1983,13,7,6,0,1,0,0.538,49,51,-2
+5,Buffalo Sabres,1983,10,6,4,0,0,1,0.6,31,35,-4
+6,New York Rangers,1983,9,5,4,0,0,0,0.556,33,37,-4
+7,Calgary Flames,1983,9,4,5,0,2,0,0.444,30,49,-19
+8,Minnesota North Stars,1983,9,4,5,0,2,1,0.444,34,40,-6
+9,Quebec Nordiques,1983,4,1,3,0,0,1,0.25,8,11,-3
+10,St. Louis Blues,1983,4,1,3,0,0,0,0.25,10,16,-6
+11,Vancouver Canucks,1983,4,1,3,0,0,2,0.25,14,17,-3
+12,Toronto Maple Leafs,1983,4,1,3,0,0,2,0.25,18,18,0
+13,Washington Capitals,1983,4,1,3,0,0,0,0.25,11,19,-8
+14,Philadelphia Flyers,1983,3,0,3,0,0,0,0,9,18,-9
+15,Winnipeg Jets,1983,3,0,3,0,0,0,0,9,14,-5
+16,Montreal Canadiens,1983,3,0,3,0,0,0,0,2,8,-6
+1,New York Islanders,1982,19,15,4,0,4,1,0.789,85,52,33
+2,Vancouver Canucks,1982,17,11,6,0,3,2,0.647,57,50,7
+3,Chicago Black Hawks,1982,15,8,7,0,1,2,0.533,50,51,-1
+4,Quebec Nordiques,1982,16,7,9,0,2,2,0.438,48,60,-12
+5,Boston Bruins,1982,11,6,5,0,1,1,0.545,43,39,4
+6,New York Rangers,1982,10,5,5,0,0,1,0.5,39,42,-3
+7,St. Louis Blues,1982,10,5,5,0,1,0,0.5,39,36,3
+8,Los Angeles Kings,1982,10,4,6,0,2,2,0.4,41,42,-1
+9,Edmonton Oilers,1982,5,2,3,0,1,1,0.4,23,27,-4
+10,Montreal Canadiens,1982,5,2,3,0,0,1,0.4,16,11,5
+11,Pittsburgh Penguins,1982,5,2,3,0,1,1,0.4,13,22,-9
+12,Buffalo Sabres,1982,4,1,3,0,0,0,0.25,11,17,-6
+13,Minnesota North Stars,1982,4,1,3,0,0,1,0.25,14,14,0
+14,Philadelphia Flyers,1982,4,1,3,0,0,0,0.25,15,19,-4
+15,Winnipeg Jets,1982,4,1,3,0,0,0,0.25,13,20,-7
+16,Calgary Flames,1982,3,0,3,0,0,1,0,5,10,-5
+1,New York Islanders,1981,18,15,3,0,1,0,0.833,97,48,49
+2,Minnesota North Stars,1981,19,12,7,0,2,1,0.632,84,74,10
+3,Calgary Flames,1981,16,9,7,0,1,0,0.563,55,60,-5
+4,New York Rangers,1981,14,7,7,0,0,0,0.5,60,56,4
+5,Philadelphia Flyers,1981,12,6,6,0,0,1,0.5,48,39,9
+6,Edmonton Oilers,1981,9,5,4,0,0,1,0.556,35,35,0
+7,St. Louis Blues,1981,11,5,6,0,1,0,0.455,42,50,-8
+8,Buffalo Sabres,1981,8,4,4,0,2,1,0.5,30,30,0
+9,Quebec Nordiques,1981,5,2,3,0,1,0,0.4,17,22,-5
+10,Pittsburgh Penguins,1981,5,2,3,0,0,1,0.4,21,20,1
+11,Los Angeles Kings,1981,4,1,3,0,0,0,0.25,12,23,-11
+12,Boston Bruins,1981,3,0,3,0,0,1,0,13,20,-7
+13,Vancouver Canucks,1981,3,0,3,0,0,1,0,7,13,-6
+14,Chicago Black Hawks,1981,3,0,3,0,0,1,0,9,15,-6
+15,Montreal Canadiens,1981,3,0,3,0,0,0,0,6,15,-9
+16,Toronto Maple Leafs,1981,3,0,3,0,0,0,0,4,20,-16
+1,New York Islanders,1980,21,15,6,0,6,1,0.714,88,66,22
+2,Philadelphia Flyers,1980,19,13,6,0,2,2,0.684,78,53,25
+3,Buffalo Sabres,1980,14,9,5,0,0,1,0.643,48,36,12
+4,Minnesota North Stars,1980,15,8,7,0,1,0,0.533,49,56,-7
+5,Montreal Canadiens,1980,10,6,4,0,1,0,0.6,39,26,13
+6,New York Rangers,1980,9,4,5,0,1,0,0.444,21,22,-1
+7,Boston Bruins,1980,10,4,6,0,1,2,0.4,35,33,2
+8,Chicago Black Hawks,1980,7,3,4,0,1,0,0.429,19,20,-1
+9,Pittsburgh Penguins,1980,5,2,3,0,0,0,0.4,14,21,-7
+10,Vancouver Canucks,1980,4,1,3,0,0,0,0.25,7,15,-8
+11,Los Angeles Kings,1980,4,1,3,0,0,1,0.25,10,21,-11
+12,Atlanta Flames,1980,4,1,3,0,0,1,0.25,8,14,-6
+13,St. Louis Blues,1980,3,0,3,0,0,1,0,4,12,-8
+14,Toronto Maple Leafs,1980,3,0,3,0,0,1,0,8,17,-9
+15,Hartford Whalers,1980,3,0,3,0,0,1,0,8,18,-10
+16,Edmonton Oilers,1980,3,0,3,0,0,2,0,6,12,-6
+1,Montreal Canadiens,1979,16,12,4,0,4,1,0.75,63,41,22
+2,New York Rangers,1979,18,11,7,0,1,4,0.611,66,42,24
+3,Boston Bruins,1979,11,7,4,0,1,1,0.636,36,32,4
+4,New York Islanders,1979,10,6,4,0,3,0,0.6,27,21,6
+5,Philadelphia Flyers,1979,8,3,5,0,1,0,0.375,23,37,-14
+6,Toronto Maple Leafs,1979,6,2,4,0,0,2,0.333,19,24,-5
+7,Pittsburgh Penguins,1979,7,2,5,0,1,0,0.286,16,25,-9
+8,Buffalo Sabres,1979,3,1,2,0,0,1,0.333,9,9,0
+9,Vancouver Canucks,1979,3,1,2,0,0,0,0.333,9,15,-6
+10,Atlanta Flames,1979,2,0,2,0,0,0,0,5,9,-4
+11,Los Angeles Kings,1979,2,0,2,0,0,1,0,2,9,-7
+12,Chicago Black Hawks,1979,4,0,4,0,0,1,0,3,14,-11
+1,Montreal Canadiens,1978,15,12,3,0,1,1,0.8,58,29,29
+2,Boston Bruins,1978,15,10,5,0,4,1,0.667,53,42,11
+3,Philadelphia Flyers,1978,12,7,5,0,1,1,0.583,37,35,2
+4,Toronto Maple Leafs,1978,13,6,7,0,1,2,0.462,33,32,1
+5,Detroit Red Wings,1978,7,3,4,0,0,0,0.429,18,29,-11
+6,New York Islanders,1978,7,3,4,0,2,1,0.429,13,16,-3
+7,Buffalo Sabres,1978,8,3,5,0,0,1,0.375,22,22,0
+8,New York Rangers,1978,3,1,2,0,1,0,0.333,6,11,-5
+9,Atlanta Flames,1978,2,0,2,0,0,0,0,5,8,-3
+10,Colorado Rockies,1978,2,0,2,0,0,1,0,3,6,-3
+11,Los Angeles Kings,1978,2,0,2,0,0,0,0,3,11,-8
+12,Chicago Black Hawks,1978,4,0,4,0,0,2,0,9,19,-10
+1,Montreal Canadiens,1978,14,12,2,0,1,1,0.857,54,23,31
+2,New York Islanders,1977,12,8,4,0,1,0,0.667,36,32,4
+3,Boston Bruins,1977,14,8,6,0,2,1,0.571,50,48,2
+4,Los Angeles Kings,1977,9,4,5,0,0,0,0.444,35,37,-2
+5,Toronto Maple Leafs,1977,9,4,5,0,0,2,0.444,31,29,2
+6,Philadelphia Flyers,1977,10,4,6,0,2,2,0.4,27,32,-5
+7,Buffalo Sabres,1977,6,2,4,0,0,0,0.333,21,19,2
+8,Atlanta Flames,1977,3,1,2,0,0,0,0.333,7,11,-4
+9,Pittsburgh Penguins,1977,3,1,2,0,0,0,0.333,10,13,-3
+10,Minnesota North Stars,1977,2,0,2,0,0,0,0,3,11,-8
+11,Chicago Black Hawks,1977,2,0,2,0,0,0,0,3,7,-4
+12,St. Louis Blues,1977,4,0,4,0,0,0,0,4,19,-15
+1,Montreal Canadiens,1976,13,12,1,0,0,0,0.923,44,26,18
+2,Philadelphia Flyers,1976,16,8,8,0,1,0,0.5,61,49,12
+3,New York Islanders,1976,13,7,6,0,0,1,0.538,43,39,4
+4,Los Angeles Kings,1976,9,5,4,0,2,0,0.556,17,27,-10
+5,Toronto Maple Leafs,1976,10,5,5,0,0,0,0.5,31,36,-5
+6,Boston Bruins,1976,12,5,7,0,0,3,0.417,38,33,5
+7,Buffalo Sabres,1976,9,4,5,0,3,0,0.444,25,29,-4
+8,St. Louis Blues,1976,3,1,2,0,0,2,0.333,8,7,1
+9,Pittsburgh Penguins,1976,3,1,2,0,0,0,0.333,3,8,-5
+10,Atlanta Flames,1976,2,0,2,0,0,0,0,1,3,-2
+11,Vancouver Canucks,1976,2,0,2,0,0,0,0,4,8,-4
+12,Chicago Black Hawks,1976,4,0,4,0,0,0,0,3,13,-10
+1,Philadelphia Flyers,1975,17,12,5,0,2,2,0.706,53,34,19
+2,Buffalo Sabres,1975,17,10,7,0,3,1,0.588,53,58,-5
+3,New York Islanders,1975,17,9,8,0,2,1,0.529,47,50,-3
+4,Montreal Canadiens,1975,11,6,5,0,1,2,0.545,49,30,19
+5,Pittsburgh Penguins,1975,9,5,4,0,0,0,0.556,27,27,0
+6,Chicago Black Hawks,1975,8,3,5,0,2,0,0.375,22,35,-13
+7,Toronto Maple Leafs,1975,7,2,5,0,1,2,0.286,13,21,-8
+8,Boston Bruins,1975,3,1,2,0,0,1,0.333,15,12,3
+9,Los Angeles Kings,1975,3,1,2,0,1,1,0.333,6,7,-1
+10,New York Rangers,1975,3,1,2,0,0,1,0.333,13,10,3
+11,Vancouver Canucks,1975,5,1,4,0,0,1,0.2,9,20,-11
+12,St. Louis Blues,1975,2,0,2,0,0,0,0,6,9,-3
+1,Philadelphia Flyers,1974,17,12,5,0,2,1,0.706,54,36,18
+2,Boston Bruins,1974,16,10,6,0,1,2,0.625,58,44,14
+3,New York Rangers,1974,13,7,6,0,2,0,0.538,38,39,-1
+4,Chicago Black Hawks,1974,11,6,5,0,1,0,0.545,30,35,-5
+5,Montreal Canadiens,1974,6,2,4,0,0,1,0.333,17,21,-4
+6,Los Angeles Kings,1974,5,1,4,0,0,0,0.2,7,10,-3
+7,Atlanta Flames,1974,4,0,4,0,0,1,0,6,17,-11
+8,Toronto Maple Leafs,1974,4,0,4,0,0,1,0,9,17,-8
+1,Montreal Canadiens,1973,17,12,5,0,1,2,0.706,73,52,21
+2,Chicago Black Hawks,1973,16,10,6,0,0,0,0.625,60,53,7
+3,New York Rangers,1973,10,5,5,0,0,0,0.5,33,26,7
+4,Philadelphia Flyers,1973,11,5,6,0,2,1,0.455,27,31,-4
+5,Buffalo Sabres,1973,6,2,4,0,1,0,0.333,16,21,-5
+6,Minnesota North Stars,1973,6,2,4,0,0,1,0.333,12,14,-2
+7,Boston Bruins,1973,5,1,4,0,0,0,0.2,11,22,-11
+8,St. Louis Blues,1973,5,1,4,0,0,0,0.2,9,22,-13
+1,Boston Bruins,1972,15,12,3,0,0,1,0.8,64,34,30
+2,New York Rangers,1972,16,10,6,0,0,0,0.625,52,41,11
+3,Chicago Black Hawks,1972,8,4,4,0,1,0,0.5,23,25,-2
+4,St. Louis Blues,1972,11,4,7,0,1,1,0.364,27,47,-20
+5,Minnesota North Stars,1972,7,3,4,0,1,1,0.429,19,19,0
+6,Montreal Canadiens,1972,6,2,4,0,0,0,0.333,14,19,-5
+7,Toronto Maple Leafs,1972,5,1,4,0,1,0,0.2,10,18,-8
+8,Pittsburgh Penguins,1972,4,0,4,0,0,1,0,8,14,-6
+1,Montreal Canadiens,1971,20,12,8,0,0,1,0.6,75,63,12
+2,Chicago Black Hawks,1971,18,11,7,0,2,2,0.611,59,42,17
+3,New York Rangers,1971,13,7,6,0,3,1,0.538,30,36,-6
+4,Minnesota North Stars,1971,12,6,6,0,0,0,0.5,35,42,-7
+5,Boston Bruins,1971,7,3,4,0,0,0,0.429,26,28,-2
+6,Toronto Maple Leafs,1971,6,2,4,0,0,1,0.333,15,16,-1
+7,St. Louis Blues,1971,6,2,4,0,0,0,0.333,15,16,-1
+8,Philadelphia Flyers,1971,4,0,4,0,0,0,0,8,20,-12
+1,Boston Bruins,1970,14,12,2,0,1,0,0.857,65,33,32
+2,St. Louis Blues,1970,16,8,8,0,0,1,0.5,46,46,0
+3,Pittsburgh Penguins,1970,10,6,4,0,1,0,0.6,23,25,-2
+4,Chicago Black Hawks,1970,8,4,4,0,0,0,0.5,26,28,-2
+5,New York Rangers,1970,6,2,4,0,0,0,0.333,16,25,-9
+6,Minnesota North Stars,1970,6,2,4,0,0,0,0.333,16,20,-4
+7,Detroit Red Wings,1970,4,0,4,0,0,0,0,8,16,-8
+8,Oakland Seals,1970,4,0,4,0,0,1,0,6,13,-7
+1,Montreal Canadiens,1969,14,12,2,0,3,0,0.857,43,26,17
+2,St. Louis Blues,1969,12,8,4,0,0,0,0.667,36,20,16
+3,Boston Bruins,1969,10,6,4,0,0,3,0.6,40,20,20
+4,Los Angeles Kings,1969,11,4,7,0,1,0,0.364,28,41,-13
+5,Oakland Seals,1969,7,3,4,0,0,1,0.429,25,23,2
+6,Toronto Maple Leafs,1969,4,0,4,0,0,0,0,5,24,-19
+7,New York Rangers,1969,4,0,4,0,0,0,0,7,16,-9
+8,Philadelphia Flyers,1969,4,0,4,0,0,0,0,3,17,-14
+1,Montreal Canadiens,1968,13,12,1,0,3,0,0.923,48,25,23
+2,St. Louis Blues,1968,18,8,10,0,4,4,0.444,42,50,-8
+3,Minnesota North Stars,1968,14,7,7,0,2,3,0.5,48,39,9
+4,Chicago Black Hawks,1968,11,5,6,0,0,1,0.455,28,34,-6
+5,Los Angeles Kings,1968,7,3,4,0,0,1,0.429,21,26,-5
+6,Philadelphia Flyers,1968,7,3,4,0,1,1,0.429,17,17,0
+7,New York Rangers,1968,6,2,4,0,0,0,0.333,12,18,-6
+8,Boston Bruins,1968,4,0,4,0,0,0,0,8,15,-7
+1,Toronto Maple Leafs,1967,12,8,4,0,1,0,0.667,35,30,5
+2,Montreal Canadiens,1967,10,6,4,0,1,1,0.6,30,25,5
+3,Chicago Black Hawks,1967,6,2,4,0,0,0,0.333,14,18,-4
+4,New York Rangers,1967,4,0,4,0,0,1,0,8,14,-6
+1,Montreal Canadiens,1966,10,8,2,0,1,0,0.8,33,20,13
+2,Detroit Red Wings,1966,12,6,6,0,0,1,0.5,36,28,8
+3,Chicago Black Hawks,1966,6,2,4,0,0,0,0.333,10,22,-12
+4,Toronto Maple Leafs,1966,4,0,4,0,0,0,0,6,15,-9
+1,Montreal Canadiens,1965,13,8,5,0,1,1,0.615,35,26,9
+2,Chicago Black Hawks,1965,14,7,7,0,0,0,0.5,35,37,-2
+3,Detroit Red Wings,1965,7,3,4,0,0,0,0.429,19,23,-4
+4,Toronto Maple Leafs,1965,6,2,4,0,1,1,0.333,14,17,-3
+1,Toronto Maple Leafs,1964,14,8,6,0,1,1,0.571,39,31,8
+2,Detroit Red Wings,1964,14,7,7,0,1,2,0.5,41,40,1
+3,Chicago Black Hawks,1964,7,3,4,0,1,0,0.429,18,24,-6
+4,Montreal Canadiens,1964,7,3,4,0,0,0,0.429,14,17,-3
+1,Toronto Maple Leafs,1963,10,8,2,0,0,0,0.8,31,16,15
+2,Detroit Red Wings,1963,11,5,6,0,0,0,0.455,35,36,-1
+3,Chicago Black Hawks,1963,6,2,4,0,0,0,0.333,19,25,-6
+4,Montreal Canadiens,1963,5,1,4,0,0,0,0.2,6,14,-8
+1,Toronto Maple Leafs,1962,12,8,4,0,1,0,0.667,40,30,10
+2,Chicago Black Hawks,1962,12,6,6,0,0,0,0.5,34,31,3
+3,Montreal Canadiens,1962,6,2,4,0,0,0,0.333,13,19,-6
+4,New York Rangers,1962,6,2,4,0,0,1,0.333,15,22,-7
+1,Chicago Black Hawks,1961,12,8,4,0,1,0,0.667,35,27,8
+2,Detroit Red Wings,1961,11,6,5,0,0,1,0.545,27,27,0
+3,Montreal Canadiens,1961,6,2,4,0,0,1,0.333,15,16,-1
+4,Toronto Maple Leafs,1961,5,1,4,0,1,0,0.2,8,15,-7
+1,Montreal Canadiens,1960,8,8,0,0,1,0,1,29,11,18
+2,Toronto Maple Leafs,1960,10,4,6,0,1,1,0.4,25,31,-6
+3,Detroit Red Wings,1960,6,2,4,0,1,1,0.333,16,20,-4
+4,Chicago Black Hawks,1960,4,0,4,0,0,1,0,6,14,-8
+1,Montreal Canadiens,1959,11,8,3,0,0,1,0.727,39,28,11
+2,Toronto Maple Leafs,1959,12,5,7,0,3,0,0.417,32,39,-7
+3,Boston Bruins,1959,7,3,4,0,0,2,0.429,21,20,1
+4,Chicago Black Hawks,1959,6,2,4,0,0,0,0.333,16,21,-5
+1,Montreal Canadiens,1958,10,8,2,0,2,0,0.8,35,20,15
+2,Boston Bruins,1958,12,6,6,0,1,1,0.5,42,32,10
+3,New York Rangers,1958,6,2,4,0,0,1,0.333,16,28,-12
+4,Detroit Red Wings,1958,4,0,4,0,0,1,0,6,19,-13
+1,Montreal Canadiens,1957,10,8,2,0,1,1,0.8,37,18,19
+2,Boston Bruins,1957,10,5,5,0,0,0,0.5,21,29,-8
+3,Detroit Red Wings,1957,5,1,4,0,0,0,0.2,14,15,-1
+4,New York Rangers,1957,5,1,4,0,1,1,0.2,12,22,-10
+1,Montreal Canadiens,1956,10,8,2,0,0,0,0.8,42,18,24
+2,Detroit Red Wings,1956,10,5,5,0,1,0,0.5,23,28,-5
+3,Toronto Maple Leafs,1956,5,1,4,0,0,1,0.2,10,14,-4
+4,New York Rangers,1956,5,1,4,0,0,0,0.2,9,24,-15
+1,Detroit Red Wings,1955,11,8,3,0,0,0,0.727,41,26,15
+2,Montreal Canadiens,1955,12,7,5,0,1,0,0.583,36,36,0
+3,Boston Bruins,1955,5,1,4,0,0,1,0.2,9,16,-7
+4,Toronto Maple Leafs,1955,4,0,4,0,0,0,0,6,14,-8
+1,Detroit Red Wings,1954,12,8,4,0,2,1,0.667,29,20,9
+2,Montreal Canadiens,1954,11,7,4,0,1,1,0.636,28,18,10
+3,Toronto Maple Leafs,1954,5,1,4,0,0,1,0.2,8,15,-7
+4,Boston Bruins,1954,4,0,4,0,0,0,0,4,16,-12
+1,Montreal Canadiens,1953,12,8,4,0,1,1,0.667,34,23,11
+2,Boston Bruins,1953,11,5,6,0,1,1,0.455,30,37,-7
+3,Chicago Black Hawks,1953,7,3,4,0,1,0,0.429,14,18,-4
+4,Detroit Red Wings,1953,6,2,4,0,0,1,0.333,21,21,0
+1,Detroit Red Wings,1952,8,8,0,0,0,0,1,24,5,19
+2,Montreal Canadiens,1952,11,4,7,0,1,0,0.364,20,23,-3
+3,Boston Bruins,1952,7,3,4,0,0,1,0.429,12,18,-6
+4,Toronto Maple Leafs,1952,4,0,4,0,0,0,0,3,13,-10
+1,Toronto Maple Leafs,1951,11,8,2,1,4,1,0.773,30,15,15
+2,Montreal Canadiens,1951,11,5,6,0,3,4,0.455,23,25,-2
+3,Detroit Red Wings,1951,6,2,4,0,0,2,0.333,12,13,-1
+4,Boston Bruins,1951,6,1,4,1,0,0,0.25,5,17,-12
+1,Detroit Red Wings,1950,14,8,6,0,3,2,0.571,32,28,4
+2,New York Rangers,1950,12,7,5,0,2,2,0.583,32,29,3
+3,Toronto Maple Leafs,1950,7,3,4,0,0,2,0.429,11,10,1
+4,Montreal Canadiens,1950,5,1,4,0,1,0,0.2,7,15,-8
+1,Toronto Maple Leafs,1949,9,8,1,0,1,1,0.889,28,15,13
+2,Detroit Red Wings,1949,11,4,7,0,1,2,0.364,22,26,-4
+3,Montreal Canadiens,1949,7,3,4,0,1,1,0.429,14,17,-3
+4,Boston Bruins,1949,5,1,4,0,1,0,0.2,10,16,-6
+1,Toronto Maple Leafs,1948,9,8,1,0,1,0,0.889,38,20,18
+2,Detroit Red Wings,1948,10,4,6,0,0,0,0.4,24,30,-6
+3,New York Rangers,1948,6,2,4,0,0,0,0.333,12,17,-5
+4,Boston Bruins,1948,5,1,4,0,0,1,0.2,13,20,-7
+1,Toronto Maple Leafs,1947,11,8,3,0,2,0,0.727,31,27,4
+2,Montreal Canadiens,1947,11,6,5,0,2,1,0.545,29,23,6
+3,Boston Bruins,1947,5,1,4,0,0,2,0.2,10,16,-6
+4,Detroit Red Wings,1947,5,1,4,0,0,1,0.2,14,18,-4
+1,Montreal Canadiens,1946,9,8,1,0,2,1,0.889,45,20,25
+2,Boston Bruins,1946,10,5,5,0,2,2,0.5,29,29,0
+3,Detroit Red Wings,1946,5,1,4,0,0,1,0.2,10,16,-6
+4,Chicago Black Hawks,1946,4,0,4,0,0,0,0,7,26,-19
+1,Toronto Maple Leafs,1945,13,8,5,0,1,1,0.615,24,30,-6
+2,Detroit Red Wings,1945,14,7,7,0,2,0,0.5,31,31,0
+3,Boston Bruins,1945,7,3,4,0,0,1,0.429,22,22,0
+4,Montreal Canadiens,1945,6,2,4,0,0,1,0.333,21,15,6
+1,Montreal Canadiens,1944,9,8,1,0,1,0,0.889,39,14,25
+2,Chicago Black Hawks,1944,9,4,5,0,0,1,0.444,25,24,1
+3,Detroit Red Wings,1944,5,1,4,0,0,0,0.2,8,17,-9
+4,Toronto Maple Leafs,1944,5,1,4,0,0,0,0.2,6,23,-17
+1,Detroit Red Wings,1943,10,8,2,0,1,1,0.8,36,22,14
+2,Boston Bruins,1943,9,4,5,0,3,0,0.444,23,33,-10
+3,Toronto Maple Leafs,1943,6,2,4,0,1,1,0.333,17,20,-3
+4,Montreal Canadiens,1943,5,1,4,0,0,3,0.2,17,18,-1
+1,Toronto Maple Leafs,1942,13,8,5,0,0,0,0.615,38,31,7
+2,Detroit Red Wings,1942,12,7,5,0,0,0,0.583,36,38,-2
+3,Boston Bruins,1942,5,2,3,0,1,0,0.4,10,16,-6
+4,New York Rangers,1942,6,2,4,0,0,0,0.333,12,13,-1
+5,Chicago Black Hawks,1942,3,1,2,0,0,1,0.333,7,5,2
+6,Montreal Canadiens,1942,3,1,2,0,0,0,0.333,8,8,0
+1,Boston Bruins,1941,11,8,3,0,0,1,0.727,27,23,4
+2,Detroit Red Wings,1941,9,4,5,0,2,0,0.444,17,20,-3
+3,Toronto Maple Leafs,1941,7,3,4,0,1,0,0.429,17,15,2
+4,Chicago Black Hawks,1941,5,2,3,0,0,2,0.4,10,12,-2
+5,Montreal Canadiens,1941,3,1,2,0,1,0,0.333,7,8,-1
+6,New York Rangers,1941,3,1,2,0,0,1,0.333,6,6,0
+1,New York Rangers,1940,12,8,4,0,3,0,0.667,29,20,9
+2,Toronto Maple Leafs,1940,10,6,4,0,1,3,0.6,21,19,2
+3,Detroit Red Wings,1940,5,2,3,0,1,0,0.4,11,12,-1
+4,Boston Bruins,1940,6,2,4,0,0,0,0.333,9,15,-6
+5,New York Americans,1940,3,1,2,0,0,1,0.333,7,9,-2
+6,Chicago Black Hawks,1940,2,0,2,0,0,1,0,3,5,-2
+1,Boston Bruins,1939,12,8,4,0,3,2,0.667,26,18,8
+2,Toronto Maple Leafs,1939,10,5,5,0,2,0,0.5,22,20,2
+3,Detroit Red Wings,1939,6,3,3,0,1,1,0.5,16,15,1
+4,New York Rangers,1939,7,3,4,0,1,3,0.429,12,14,-2
+5,Montreal Canadiens,1939,3,1,2,0,0,1,0.333,5,8,-3
+6,New York Americans,1939,2,0,2,0,0,0,0,0,6,-6
+1,Chicago Black Hawks,1938,10,7,3,0,2,0,0.7,26,21,5
+2,Toronto Maple Leafs,1938,7,4,3,0,2,0,0.571,14,13,1
+3,New York Americans,1938,6,3,3,0,2,1,0.5,13,12,1
+4,Montreal Canadiens,1938,3,1,2,0,0,1,0.333,8,11,-3
+5,New York Rangers,1938,3,1,2,0,0,2,0.333,7,8,-1
+6,Boston Bruins,1938,3,0,3,0,0,2,0,3,6,-3
+1,New York Rangers,1937,9,6,3,0,1,0,0.667,18,10,8
+2,Detroit Red Wings,1937,10,6,4,0,1,0,0.6,22,16,6
+3,Montreal Canadiens,1937,5,2,3,0,0,1,0.4,8,13,-5
+4,Montreal Maroons,1937,5,2,3,0,0,0,0.4,8,11,-3
+5,Boston Bruins,1937,3,1,2,0,0,0,0.333,6,8,-2
+6,Toronto Maple Leafs,1937,2,0,2,0,0,1,0,1,5,-4
+1,Detroit Red Wings,1936,7,6,1,0,1,1,0.857,24,12,12
+2,Toronto Maple Leafs,1936,9,4,5,0,1,0,0.444,25,27,-2
+3,New York Americans,1936,5,2,3,0,0,0,0.4,10,11,-1
+4,Boston Bruins,1936,2,1,1,0,0,0,0.5,6,8,-2
+5,Chicago Black Hawks,1936,2,1,1,0,0,0,0.5,5,7,-2
+6,Montreal Maroons,1936,3,0,3,0,0,1,0,1,6,-5
+1,Montreal Maroons,1935,7,5,0,2,2,0,0.857,16,8,8
+2,Toronto Maple Leafs,1935,7,3,4,0,1,2,0.429,11,12,-1
+3,New York Rangers,1935,4,1,1,2,0,0,0.5,10,10,0
+4,Boston Bruins,1935,4,1,3,0,1,1,0.25,2,7,-5
+5,Chicago Black Hawks,1935,2,0,1,1,0,1,0.25,0,1,-1
+6,Montreal Canadiens,1935,2,0,1,1,0,0,0.25,5,6,-1
+1,Chicago Black Hawks,1934,8,6,1,1,2,0,0.813,19,12,7
+2,Detroit Red Wings,1934,9,4,5,0,1,2,0.444,18,21,-3
+3,Toronto Maple Leafs,1934,5,2,3,0,0,1,0.4,12,11,1
+4,Montreal Maroons,1934,4,1,2,1,0,0,0.375,4,7,-3
+5,New York Rangers,1934,2,0,1,1,0,0,0.25,1,2,-1
+6,Montreal Canadiens,1934,2,0,1,1,0,0,0.25,3,4,-1
+1,New York Rangers,1933,8,6,1,1,1,0,0.813,25,13,12
+2,Toronto Maple Leafs,1933,9,4,5,0,2,3,0.444,14,18,-4
+3,Detroit Red Wings,1933,4,2,2,0,0,0,0.5,8,8,0
+4,Boston Bruins,1933,5,2,3,0,2,2,0.4,7,9,-2
+5,Montreal Canadiens,1933,2,0,1,1,0,0,0.25,5,8,-3
+6,Montreal Maroons,1933,2,0,2,0,0,0,0,2,5,-3
+1,Toronto Maple Leafs,1932,7,5,1,1,1,0,0.786,28,15,13
+2,New York Rangers,1932,7,3,4,0,1,0,0.429,23,27,-4
+3,Chicago Black Hawks,1932,2,1,1,0,0,0,0.5,2,6,-4
+4,Montreal Maroons,1932,4,1,1,2,0,1,0.5,6,5,1
+5,Montreal Canadiens,1932,4,1,3,0,0,1,0.25,9,13,-4
+6,Detroit Falcons,1932,2,0,1,1,0,0,0.25,1,3,-2
+1,Montreal Canadiens,1931,10,6,4,0,2,3,0.6,24,21,3
+2,Chicago Black Hawks,1931,9,5,3,1,3,0,0.611,15,14,1
+3,New York Rangers,1931,4,2,2,0,0,0,0.5,8,4,4
+4,Boston Bruins,1931,5,2,3,0,1,2,0.4,13,13,0
+5,Toronto Maple Leafs,1931,2,0,1,1,0,1,0.25,3,4,-1
+6,Montreal Maroons,1931,2,0,2,0,0,0,0,1,8,-7
+1,Montreal Canadiens,1930,6,5,0,1,1,0,0.917,14,6,8
+2,Boston Bruins,1930,6,3,3,0,1,1,0.5,14,12,2
+3,New York Rangers,1930,4,1,2,1,0,1,0.375,7,7,0
+4,Montreal Maroons,1930,4,1,3,0,1,1,0.25,5,11,-6
+5,Ottawa Senators,1930,2,0,1,1,0,0,0.25,3,6,-3
+6,Chicago Black Hawks,1930,2,0,1,1,0,0,0.25,2,3,-1
+1,Boston Bruins,1929,5,5,0,0,0,0,1,9,3,6
+2,New York Rangers,1929,6,3,2,1,2,0,0.583,5,5,0
+3,Toronto Maple Leafs,1929,4,2,2,0,0,1,0.5,8,5,3
+4,New York Americans,1929,2,0,1,1,0,1,0.25,0,1,-1
+5,Detroit Cougars,1929,2,0,2,0,0,0,0,2,7,-5
+6,Montreal Canadiens,1929,3,0,3,0,0,0,0,2,5,-3
+1,New York Rangers,1928,9,5,3,1,1,0,0.611,16,12,4
+2,Montreal Maroons,1928,9,5,3,1,1,1,0.611,12,8,4
+3,Pittsburgh Pirates,1928,2,1,1,0,0,0,0.5,4,6,-2
+4,Montreal Canadiens,1928,2,0,1,1,0,1,0.25,2,3,-1
+5,Boston Bruins,1928,2,0,1,1,0,0,0.25,2,5,-3
+6,Ottawa Senators,1928,2,0,2,0,0,0,0,1,3,-2
+1,Ottawa Senators,1927,6,3,0,3,0,0,0.75,12,4,8
+2,Boston Bruins,1927,8,2,2,4,0,0,0.5,16,13,3
+3,Montreal Canadiens,1927,4,1,1,2,1,0,0.5,3,6,-3
+4,Chicago Black Hawks,1927,2,0,1,1,0,0,0.25,5,10,-5
+5,Montreal Maroons,1927,2,0,1,1,0,1,0.25,1,2,-1
+6,New York Rangers,1927,2,0,1,1,0,0,0.25,1,3,-2
+1,Montreal Maroons,1926,4,2,0,2,0,0,0.75,8,5,3
+2,Pittsburgh Pirates,1926,2,0,1,1,0,0,0.25,4,6,-2
+3,Ottawa Senators,1926,2,0,1,1,0,0,0.25,1,2,-1
+1,Montreal Canadiens,1925,2,2,0,0,0,0,1,5,2,3
+2,Toronto St. Patricks,1925,2,0,2,0,0,0,0,2,5,-3
+1,Montreal Canadiens,1924,2,2,0,0,0,0,1,5,2,3
+2,Ottawa Senators,1924,2,0,2,0,0,0,0,2,5,-3
+1,Montreal Canadiens,1923,2,1,1,0,0,0,0.5,2,3,-1
+2,Ottawa Senators,1923,2,1,1,0,0,0,0.5,3,2,1
+1,Toronto St. Patricks,1922,2,1,0,1,0,0,0.75,5,4,1
+2,Ottawa Senators,1922,2,0,1,1,0,0,0.25,4,5,-1
+1,Ottawa Senators,1921,2,2,0,0,0,0,1,7,0,7
+2,Toronto St. Patricks,1921,2,0,2,0,0,0,0,0,7,-7
+1,Montreal Canadiens,1919,5,4,1,0,0,0,0.8,26,18,8
+2,Ottawa Senators,1919,5,1,4,0,0,0,0.2,18,26,-8
+1,Montreal Canadiens,1918,2,1,1,0,0,0,0.5,7,10,-3
+2,Toronto Arenas,1918,2,1,1,0,0,0,0.5,10,7,3
