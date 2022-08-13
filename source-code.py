@@ -9,8 +9,8 @@ from sklearn.cross_validation import cross_val_score
 
 print("\t[TITLE]\n")
 
-#DATA ANALYSIS
-"""
+#DATA ANALYSIS#
+ ###
 #Read the csv document that contains the dataset
 df = pd.read_csv(".csv")
 
@@ -50,10 +50,11 @@ print(df.describe(),'\n')
 #Locate specific rows/columns to a new dataframe
 #df_new = df.iloc['']
 #df_new = df.loc['']
-"""
 
-#DATA VISUALIZATION
-"""
+
+
+#DATA VISUALIZATION#
+ ###
 #Make graphs from the previous dataframe
 #df_new.plot(title='')
 #df_new.plot.bar(title='',subplots=True)
@@ -61,10 +62,11 @@ print(df.describe(),'\n')
 plt.xlabel('')
 plt.ylabel('')
 plt.show()
-"""
 
-#MACHINE LEARNING
-"""
+
+
+#MACHINE LEARNING#
+ ###
 #Training and testing data
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 0)
 
@@ -117,4 +119,3 @@ metric.v_measure_score(y_true, y_prediction)
 #Do the cross-validation of your model
 print(cross_val_score(knn, X_train, y_train, cv=4),'\n')
 print(cross_val_score(lr, X, y, cv=2))
-"""
