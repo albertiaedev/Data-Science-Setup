@@ -6,6 +6,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, Normalizer, Binarizer
 from sklearn.metrics import mean_absolute_error, adjusted_rand_score, homogeneity_score, v_measure_score
 from sklearn.cross_validation import cross_val_score
+from sklearn.linear_model import LinearRegression
+from sklearn.svm import SVC
+from sklearn.naive_bayes import GaussianNB
+from sklearn import neighbors
+from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
 
 print("\t[TITLE]\n")
 
@@ -69,6 +75,13 @@ plt.show()
  ###
 #Training and testing data
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 0)
+
+#Create your model
+###Supervised Learning Estimators###
+
+
+###Unsupervised Learning Estimators####
+
 
 #Fit the model to the data
 ###Supervised Learning###
