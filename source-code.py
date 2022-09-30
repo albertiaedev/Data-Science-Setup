@@ -79,9 +79,24 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 0)
 #Create your model
 ###Supervised Learning Estimators###
 
+#Linear Regression
+lr = LinearRegression(normalize=True)
+
+#Support Vector Machines (SVM)
+svc = SVC(kernel='Linear')
+
+#Naive Bayes
+gnb = GaussianNB
+
+#KNN
+knn = neigbors.KNeighborsClassifier(n_neighbors=5)
 
 ###Unsupervised Learning Estimators####
+#Principal Component Analysis (PCA)
+pca = PCA(n_components=0.95)
 
+#K Means
+k_means = KMeans(n_clusters=3,random_state=0)
 
 #Fit the model to the data
 ###Supervised Learning###
