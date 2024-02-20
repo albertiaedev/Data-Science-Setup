@@ -1,6 +1,11 @@
+
+# import pandas, numpy and matplotlib
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+
+# create a dataframe from scratch
 
 table = pd.DataFrame(
     {'Avena':[3.0,3.9,4.3,4.3,5.0,8.1,6.2,6.5,6.5,7.0,6.8,7.0],
@@ -11,9 +16,13 @@ table = pd.DataFrame(
     index = ['Enero','Febrero','Marzo','Abril','Mayo','Junio',
              'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'])
 
+# check what the dataframe that you just created looks like
+
 print(table,'\n')
 print(table.describe())
 
+
+# make plots off the dataframe
 
 #table.plot(title='Producción Anual de Cereales')
 #table.plot.bar(title='Producción Anual de Cereales',subplots=True)
