@@ -19,7 +19,30 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 ```git clone git@github.com:jesusalberto18/Data-Science-Setup.git```
 
-And that's it! It creates a local copy of this repository in your machine.
+And that's it! It creates a local copy of this repository in your machine...
+Or maybe you'd rather create a virtual environment for that, if so follow the instructions below.
+
+## Create a virtual environment
+
+### Why a virtual environment?
+
+<em>A virtual environment helps you separate the system of your local machine from the one you need to run a specific project (similar to a virtual machine, to make it easier, but it's different). That way you avoid the problem of conflicting packages and ensure it all works well.</em>
+
+ - Create a folder for this cloned repo by typing ```mkdir <name_of_repo>```
+   i.e. ```mkdir datascience```
+
+ - Inside your folder create the virtual environment, for this we'll need a package called ```virtualenv```,
+   you can install this package by typing ```pip3 install virtualenv```
+
+ - Create the virtual environment by typing ```python3 -m virtualenv venv```,
+   then type ```source venv/bin/activate``` in order to activate your virtual environment.
+
+ - Clone this repo following the instructions above.
+
+ - Once inside your cloned repo, just type ```pip3 install -r requirements.txt``` to install all the dependencies needed to run this project.
+
+ - Open a new notebook by typing ```jupyter notebook```,
+   and start browwsing your files!
 
 ## Donate
 
