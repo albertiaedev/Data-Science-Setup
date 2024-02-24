@@ -42,7 +42,7 @@ Or maybe you'd rather create a virtual environment for that, if so follow the in
  - Once inside your cloned repo, just type ```pip3 install -r requirements.txt``` to install all the dependencies needed to run this project.
 
  - Open a new notebook by typing ```jupyter notebook```,
-   and start browwsing your files!
+   and start browsing your files!
 
 ## Donate
 
