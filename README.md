@@ -13,11 +13,11 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 ### HTTPS
 
-```git clone https://github.com/jesusalberto18/Data-Science-Setup.git```
+```git clone https://github.com/albertiaedev/Data-Science-Setup.git```
 
 ### SSH
 
-```git clone git@github.com:jesusalberto18/Data-Science-Setup.git```
+```git clone git@github.com:albertiaedev/Data-Science-Setup.git```
 
 And that's it! It creates a local copy of this repository in your machine...
 Or maybe you'd rather create a virtual environment for that, if so follow the instructions below.
